@@ -1,0 +1,8 @@
+Task
+
+1. create parent class Shape
+    perimeter, area
+2. let the rest of the subclasses (circle, square, rectangle) extend the parent class
+3. set conditions for the subclasses and if the conditions are not met, they should throw
+    the InvalidShapeException
+
